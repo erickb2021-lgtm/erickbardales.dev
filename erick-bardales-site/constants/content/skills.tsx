@@ -1,0 +1,15 @@
+export const skills = {
+  python: "Python",
+  cpp: "C++",
+  sql: "SQL",
+  api: "APIs",
+  llm: "LLMs",
+  aiEval: "AI Evaluation",
+  git: "Git",
+  overleaf: "Overleaf",
+  linux: "Linux (Ubuntu)",
+  node: "Node.js",
+  supabase: "Supabase",
+  react: "React",
+  web: "HTML / CSS / JavaScript",
+};
